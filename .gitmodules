@@ -1,0 +1,3 @@
+[submodule "coro_description"]
+	path = coro_description
+	url = git@github.com:jdcaporale/coro_description.git
